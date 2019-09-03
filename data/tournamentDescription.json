@@ -1,0 +1,49 @@
+{
+  "tournamentTitle": "Быстрые шахматы №3. Сентябрь 2019. Рейтинг до 1500",
+  "tournamentId": "rapid3.sep2019.rated1500",
+  "players": [
+    "alexey.shklyar",
+    "eugeny.gil",
+    "boris.stepanov",
+    "gennady.alemsky"
+  ],
+  "joinedPlayers": [
+  ],
+  "quitPlayers": [
+  ],
+  "arbiter": "ilya.maltsev",
+  "deputyArbiters": [
+    "alexey.matveev",
+    "alexey.biryukov"
+  ],
+  "gameWriters": [
+    "alexey.biryukov",
+    "alexey.shklyar",
+    "ilya.maltsev"
+  ],
+  "regulations": "Турнир №3 по быстрым шахматам для игроков с рейтингом не больше 1500 и игроков без рейтинга. Проводим с 5-го сентября по 25-сентября включительно. <br>Играем по <b>круговой схеме</b> с контролем времени 10 минут + 10 секунд добавление на ход.<br>Каждый играет с соперником <b>одну</b> партию, цвет фиксирован (будьте внимательны, при несоответствии цветов партия не засчитывается).<br>Конкретные дата и время игр не фиксированы, играем по готовности, но не затягиваем.<br>Тай-брейк коэффициенты: количество побед, Neustadtl (Sonneborn-Berger), Koya.<br><br>В случае совпадения всех коэффициентов у двух игроков играется армагеддон: одна блиц-партия, белые 5+3, чёрные 4+3, цвет определяем подбрасыванием монеты, ничья трактуется в пользу чёрных.",
+  "tournamentSetup": {
+    "type": "round-robin",
+    "game-result-system": "STANDARD",
+    "time-control-type": "RAPID",
+    "rounds-amount": 1,
+    "tie-breaks": [
+      "direct-encounter",
+      "number-of-wins",
+      "neustadtl",
+      "koya"
+    ],
+    "color-allocating-system": {
+      "name": "fixed-alternation-color-allocating-system",
+      "seed": 200001
+    }
+  },
+  "startDay": "2019-09-05",
+  "links": [
+    {
+      "purpose": "self",
+      "value": "https://chessinappliedtech.github.io/rapid3-sep2019-rated1500/",
+      "name": "<<< Турнирная таблица"
+    }
+  ]
+}

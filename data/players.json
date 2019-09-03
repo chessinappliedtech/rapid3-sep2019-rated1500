@@ -1,0 +1,77 @@
+﻿[
+  {
+    "id": "ilya.maltsev",
+    "firstName": "Илья",
+    "lastName": "Мальцев"
+  },
+  {
+    "id": "alexey.matveev",
+    "firstName": "Алексей",
+    "lastName": "Матвеев"
+  },
+  {
+    "id": "alexey.polurotov",
+    "firstName": "Алексей",
+    "lastName": "Полуротов"
+  },
+  {
+    "id": "alexey.biryukov",
+    "firstName": "Алексей",
+    "lastName": "Бирюков"
+  },
+  {
+    "id": "alexander.brezgin",
+    "firstName": "Александр",
+    "lastName": "Брезгин"
+  },
+  {
+    "id": "alexey.shimeshov",
+    "firstName": "Алексей",
+    "lastName": "Шимешов"
+  },
+  {
+    "id": "anatoly.morozov",
+    "firstName": "Анатолий",
+    "lastName": "Морозов"
+  },
+  {
+    "id": "alexander.shkabara",
+    "firstName": "Александр",
+    "lastName": "Шкабара"
+  },
+  {
+    "id": "alexey.shklyar",
+    "firstName": "Алексей",
+    "lastName": "Шкляр"
+  },
+  {
+    "id": "vladimir.kudryakov",
+    "firstName": "Владимир",
+    "lastName": "Кудряков"
+  },
+  {
+    "id": "viktor.bornov",
+    "firstName": "Виктор",
+    "lastName": "Борнов"
+  },
+  {
+    "id": "mikhail.egorov",
+    "firstName": "Михаил",
+    "lastName": "Егоров"
+  },
+  {
+    "id": "gennady.alemsky",
+    "firstName": "Геннадий",
+    "lastName": "Алемский"
+  },
+  {
+    "id": "eugeny.gil",
+    "firstName": "Евгений",
+    "lastName": "Гиль"
+  },
+  {
+    "id": "boris.stepanov",
+    "firstName": "Борис",
+    "lastName": "Степанов"
+  }
+]

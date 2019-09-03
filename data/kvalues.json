@@ -1,0 +1,138 @@
+[
+  {
+    "playerId": "ilya.maltsev",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "alexey.matveev",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "alexey.polurotov",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "alexey.biryukov",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "alexander.brezgin",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "alexey.shimeshov",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "anatoly.morozov",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "alexey.shklyar",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "viktor.bornov",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "alexander.shkabara",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "vladimir.kudryakov",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "alexander.panchenko",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "pavel.davydov",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "mikhail.egorov",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "gennady.alemsky",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "eugeny.gil",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
+    "playerId": "boris.stepanov",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  }
+]

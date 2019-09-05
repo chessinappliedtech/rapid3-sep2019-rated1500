@@ -1,2 +1,10 @@
 [
+  {
+    "whiteId": "eugeny.gil",
+    "blackId": "gennady.alemsky",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "05-09-2019",
+    "result": "bw",
+    "timeControlType": "RAPID"
+  }
 ]

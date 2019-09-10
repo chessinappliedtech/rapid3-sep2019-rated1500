@@ -78,5 +78,10 @@
     "id": "pavel.prokazov",
     "firstName": "Павел",
     "lastName": "Проказов"
+  },
+  {
+    "id": "eugeny.eremeev",
+    "firstName": "Евгений",
+    "lastName": "Еремеев"
   }
 ]

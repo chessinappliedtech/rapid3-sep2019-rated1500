@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №3. Сентябрь 2019. Рейтинг до 1500"]
+[Site "https://lichess.org/xruF0urS"]
+[Date "10.09.2019, 15:08:09"]
+[Round "-"]
+[White "Геннадий Алемский"]
+[Black "Анатолий Морозов"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 g6 2. d4 Bg7 { B06 Robatsch (Modern) Defense } 3. Nf3 e6 4. Be2 b6 5. O-O Bb7 6. Nc3 Ne7 7. e5 d6 8. exd6 Qxd6 9. Bb5+ Nd7 10. Re1 O-O 11. a3 a6 12. Ba4 Nf5 13. Ne5 Nxe5 14. dxe5 Qxd1 15. Rxd1 Bxe5 16. g3 Rad8 17. Rxd8 Rxd8 18. Bg5 Rd6 19. Re1 Bg7 20. Bf4 Rd4 21. Ne2 Rxa4 22. g4 Nh4 23. Rd1 Nf3+ 24. Kf1 Bxb2 25. Bxc7 Rxa3 26. g5 Ra1 27. Rxa1 Bxa1 28. Ng3 Nxh2+ 29. Kg1 Nf3+ 30. Kf1 Nxg5 31. f4 Nf3 32. Kf2 Nd4 33. c4 a5 34. Bxb6 Nc2 35. Bxa5 Kg7 36. Ke2 Nd4+ 37. Kd3 Nc6 38. Kc2 Nxa5 39. Kb1 Bd4 40. Kc1 h5 { Black wins. } 0-1

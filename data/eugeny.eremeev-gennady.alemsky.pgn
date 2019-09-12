@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №3. Сентябрь 2019. Рейтинг до 1500"]
+[Site "https://lichess.org/2lbEy1Lx"]
+[Date "12.09.2019, 17:13:31"]
+[Round "-"]
+[White "Евгений Еремеев"]
+[Black "Геннадий Алемский"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Panov Attack"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. d4 c6 2. e4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 { B13 Caro-Kann Defense: Panov Attack } Bf5 6. Bf4 e6 7. Nf3 Bb4 8. Ne5 Ne4 9. Qa4+ Nd7 10. Qxb4 Nxc3 11. Qxc3 Nxe5 12. Bxe5 O-O 13. c5 Rc8 14. Bd6 Re8 15. Bb5 b6 16. Bxe8 Qxe8 17. O-O f6 18. Rfe1 Qb5 19. a4 Qc4 20. Qxc4 dxc4 21. Rac1 Bd3 22. Rxe6 Kf7 23. Re7+ Kg6 24. Rxa7 bxc5 25. dxc5 Kf5 26. Rc7 Rg8 27. a5 h5 28. a6 g5 29. a7 Ra8 30. Rb7 Ke4 31. Ra1 Kd4 32. Rb8 Be4 33. Rxa8 Bxa8 34. Ra6 Kd3 35. Rb6 Kc2 36. Rb8 Bd5 37. a8=Q Bxa8 38. Rxa8 Kxb2 39. c6 c3 40. c7 c2 41. c8=Q c1=Q+ 42. Qxc1+ Kxc1 43. Ra3 { White wins. } 1-0

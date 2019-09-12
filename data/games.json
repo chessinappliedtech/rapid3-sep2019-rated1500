@@ -34,5 +34,17 @@
     "date": "12-09-2019",
     "result": "ww",
     "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "eugeny.eremeev",
+    "blackId": "gennady.alemsky",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "12-09-2019",
+    "result": "ww",
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/eugeny.eremeev-gennady.alemsky.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/2lbEy1Lx"
+    }
   }
 ]

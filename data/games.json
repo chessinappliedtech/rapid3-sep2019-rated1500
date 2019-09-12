@@ -26,5 +26,13 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/xruF0urS"
     }
+  },
+  {
+    "whiteId": "eugeny.eremeev",
+    "blackId": "mikhail.egorov",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "12-09-2019",
+    "result": "ww",
+    "timeControlType": "RAPID"
   }
 ]

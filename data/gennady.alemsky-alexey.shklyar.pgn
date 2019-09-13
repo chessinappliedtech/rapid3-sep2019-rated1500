@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №3. Сентябрь 2019. Рейтинг до 1500"]
+[Site "https://lichess.org/YhjR0vyM"]
+[Date "2019.09.13"]
+[Round "-"]
+[White "Геннадий Алемский"]
+[Black "Алексей Шкляр"]
+[Result "1/2-1/2"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 { C02 French Defense: Advance Variation } Qb6 5. Nf3 Nc6 6. Be3 Nh6 7. dxc5 Bxc5 8. Bxc5 Qxc5 9. Qa4 Bd7 10. b4 Qxc3+ 11. Nxc3 Nxe5 12. b5 Nxf3+ 13. gxf3 a6 14. Qf4 Nf5 15. Bh3 Rc8 16. Nxd5 Bxb5 17. Bxf5 exf5 18. Qe5+ Kf8 19. Qe7+ Kg8 20. Nb6 Re8 21. Qxe8+ Bxe8 22. O-O Bb5 23. Rfd1 g6 24. Rd8+ Kg7 25. Rxh8 Kxh8 26. Nd5 Bc6 27. Rd1 Kg7 28. Kg2 b5 29. Kg3 f6 30. Kf4 Kf7 31. Ke3 g5 32. Kd4 Ke6 33. Nc7+ Kd7 34. Nxa6 Bxf3 35. Rd3 g4 36. Kc5+ Ke7 37. Kxb5 h5 38. Kc5 h4 39. Re3+ Kf7 40. Kd6 f4 41. Rc3 Kg6 42. Nc5 Be2 43. h3 g3 44. fxg3 fxg3 45. Rc2 Bd1 46. Rd2 Bf3 47. Rc2 g2 48. Rc1 Be2 49. Rg1 Bf1 50. Ke6 Kg5 51. a4 f5 52. a5 f4 53. a6 f3 54. a7 f2 55. Ne4+ Kf4 56. Nxf2 Kg3 57. a8=Q Kxf2 58. Qa7+ Kg3 59. Qa3+ Kh2 60. Qa2 Kxg1 61. Qa7+ Kh2 62. Qf2 Kh1 63. Qf3 Kh2 64. Qf2 Kh1 65. Qf3 Kh2 66. Qf4+ Kh1 67. Qe4 Kh2 { The game is a draw. } 1/2-1/2

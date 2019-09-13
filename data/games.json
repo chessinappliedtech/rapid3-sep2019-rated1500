@@ -46,5 +46,17 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/2lbEy1Lx"
     }
+  },
+  {
+    "whiteId": "gennady.alemsky",
+    "blackId": "alexey.shklyar",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "13-09-2019",
+    "result": "draw",
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/gennady.alemsky-alexey.shklyar.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/YhjR0vyM"
+    }
   }
 ]

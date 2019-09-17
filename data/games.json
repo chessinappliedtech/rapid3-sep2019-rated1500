@@ -66,5 +66,21 @@
     "date": "16-09-2019",
     "result": "bw",
     "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "pavel.prokazov",
+    "blackId": "eugeny.eremeev",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "17-09-2019",
+    "result": "bw",
+    "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "eugeny.eremeev",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "17-09-2019",
+    "result": "ww",
+    "timeControlType": "RAPID"
   }
 ]

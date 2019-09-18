@@ -65,7 +65,11 @@
     "tournamentId": "rapid3.sep2019.rated1500",
     "date": "16-09-2019",
     "result": "bw",
-    "timeControlType": "RAPID"
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/anatoly.morozov-eugeny.eremeev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/1YplQznK"
+    }
   },
   {
     "whiteId": "pavel.prokazov",

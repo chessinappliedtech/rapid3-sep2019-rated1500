@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №3. Сентябрь 2019. Рейтинг до 1500"]
+[Site "https://lichess.org/1YplQznK"]
+[Date "16.09.2019, 17:04:24"]
+[Round "-"]
+[White "Анатолий Морозов"]
+[Black "Евгений Еремеев"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. g3 { A00 Hungarian Opening } e5 2. Bg2 d5 3. b3 Nf6 4. Bb2 Nc6 5. e3 Bf5 6. Ne2 e4 7. O-O Bd6 8. d3 Be5 9. Bxe5 Nxe5 10. dxe4 Nxe4 11. Nbc3 Nxc3 12. Nxc3 c6 13. Rc1 Qd7 14. Qd4 Qe6 15. f4 Ng4 16. Rfe1 O-O 17. h3 Nf6 18. g4 Nxg4 19. hxg4 Bxg4 20. e4 Qg6 21. exd5 Bf3 22. Qf2 Bxd5 23. Nxd5 cxd5 24. Kf1 Rad8 25. Red1 Qa6+ 26. Kg1 Qg6 27. Qf3 h5 28. Rxd5 h4 29. Rh5 Rd2 30. Rxh4 Re8 31. Rg4 Qb6+ 32. Kh2 g6 33. Kh3 Re3 34. Qxe3 Qxe3+ 35. Kh4 Qe7+ 36. Kh3 Qe3+ 37. Rg3 Qxf4 38. Rf1 Qh6+ 39. Kg4 f5+ 40. Kf3 Qh5+ 41. Ke3 Qe2+ 42. Kf4 Rd4+ 43. Kg5 Qh5+ 44. Kf6 Rd6+ 45. Ke7 Rd2 46. Rh1 Qe2+ 47. Kf6 Rd6+ 48. Kg5 Qd2+ 49. Kh4 Kg7 50. Rf1 Qh6# { Black wins by checkmate. } 0-1

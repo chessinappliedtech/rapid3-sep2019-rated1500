@@ -109,6 +109,22 @@
     "tournamentId": "rapid3.sep2019.rated1500",
     "date": "18-09-2019",
     "result": "ww",
-    "timeControlType": "RAPID"
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/alexander.brezgin-anatoly.morozov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/RxeYGUxg"
+    }
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "pavel.prokazov",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "18-09-2019",
+    "result": "ww",
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/anatoly.morozov-pavel.prokazov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/nydk1q2F"
+    }
   }
 ]

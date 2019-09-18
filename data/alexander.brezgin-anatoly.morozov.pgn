@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №3. Сентябрь 2019. Рейтинг до 1500"]
+[Site "https://lichess.org/RxeYGUxg"]
+[Date "18.09.2019, 16:16:15"]
+[Round "-"]
+[White "Александр Брезгин"]
+[Black "Анатолий Морозов"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 g6 { B06 Modern Defense } 2. Nf3 Bg7 3. d4 e6 4. e5 b6 5. Bf4 Bb7 6. Nbd2 Ne7 7. Bd3 O-O 8. h4 h6 9. g4 Nd5 10. Be4 Qc8 11. Bxd5 Bxd5 12. c4 Bb7 13. Rg1 Qd8 14. Ng5 hxg5 15. Bxg5 Qe8 16. h5 Kh7 17. hxg6+ fxg6 18. f3 Nc6 19. Ne4 d5 20. Nf6+ Bxf6 21. Bxf6 dxc4 22. Rh1+ Kg8 23. Rh8+ Kf7 24. Rh7+ Kg8 25. Rg7+ Kh8 26. Kf2 Rxf6 27. exf6 Qg8 28. Qh1+ Qh7 29. Qxh7# { White wins by checkmate. } 1-0

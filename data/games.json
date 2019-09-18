@@ -82,5 +82,13 @@
     "date": "17-09-2019",
     "result": "ww",
     "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "mikhail.egorov",
+    "blackId": "alexey.shklyar",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "18-09-2019",
+    "result": "ww",
+    "timeControlType": "RAPID"
   }
 ]

@@ -102,5 +102,13 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/SNw2aro0"
     }
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "anatoly.morozov",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "18-09-2019",
+    "result": "ww",
+    "timeControlType": "RAPID"
   }
 ]

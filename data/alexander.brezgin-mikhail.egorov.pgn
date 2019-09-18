@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №3. Сентябрь 2019. Рейтинг до 1500"]
+[Site "https://lichess.org/SNw2aro0"]
+[Date "18.09.2019, 15:23:51"]
+[Round "-"]
+[White "Александр Брезгин"]
+[Black "Михаил Егоров"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 { C44 King's Knight Opening: Normal Variation } 3. Bd3 d6 4. Nc3 Bg4 5. h3 Bxf3 6. Qxf3 Nd4 7. Qd1 Qg5 8. O-O g6 9. Nd5 O-O-O 10. c3 Nc6 11. Bb5 Nce7 12. d4 Qh5 13. f3 c6 14. Nxe7+ Nxe7 15. Bc4 d5 16. exd5 cxd5 17. Bd3 f6 18. c4 exd4 19. cxd5 Qxd5 20. Be4 Qd7 21. Bf4 f5 22. Rc1+ Nc6 23. Bxc6 bxc6 24. Qc2 c5 25. b4 Bd6 26. Bxd6 Qxd6 27. bxc5 Qc6 28. Rfd1 Rd5 29. Qc4 Rxc5 30. Qxc5 Qxc5 31. Rxc5+ Kb7 32. Rxd4 Kb8 33. Rd7 a6 34. Rcc7 a5 35. Kf2 h5 36. Ke3 Re8+ 37. Kd4 g5 38. Kc5 g4 39. Kc6 Re6+ 40. Kd5 Rb6 41. Rc6 Rb5+ 42. Rc5 Rb2 43. Rd8+ Kb7 44. Rc6 Rd2+ 45. Kc5 Rxd8 46. Rb6+ Kc7 47. Rc6+ Kb7 48. Rb6+ Ka7 49. Rb5 gxf3 50. gxf3 Rd3 51. Rxa5+ Kb7 52. Rb5+ Kc7 53. a4 Rxf3 54. a5 Rg3 55. a6 Rg5 56. a7 f4+ 57. Kb4 Rxb5+ 58. Kxb5 Kb7 { Black wins. } 0-1

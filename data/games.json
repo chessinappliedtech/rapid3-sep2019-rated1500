@@ -90,5 +90,17 @@
     "date": "18-09-2019",
     "result": "ww",
     "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "mikhail.egorov",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "18-09-2019",
+    "result": "bw",
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/alexander.brezgin-mikhail.egorov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/SNw2aro0"
+    }
   }
 ]

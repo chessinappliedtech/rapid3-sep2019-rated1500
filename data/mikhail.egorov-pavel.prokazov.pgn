@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №3. Сентябрь 2019. Рейтинг до 1500"]
+[Site "https://lichess.org/nxew5seu"]
+[Date "19.09.2019, 15:54:17"]
+[Round "-"]
+[White "Михаил Егоров"]
+[Black "Павел Проказов"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C23"]
+[Opening "Bishop's Opening: Khan Gambit"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Bc4 d5 { C23 Bishop's Opening: Khan Gambit } 3. Bxd5 Bb4 4. Qf3 Qe7 5. c3 c6 6. Bxf7+ Qxf7 7. cxb4 Nh6 8. d3 O-O 9. Bxh6 gxh6 10. Qg3+ Qg7 11. Nf3 Na6 12. a3 c5 13. O-O cxb4 14. axb4 Nxb4 15. Nxe5 Be6 16. Na3 Nc6 17. Nxc6 bxc6 18. Rac1 Bd7 19. Nc4 Rae8 20. Nd6 Re5 21. Ra1 Rg5 22. Qxg5 hxg5 23. f3 Qd4+ 24. Kh1 Qxd6 25. Rxa7 Qxd3 26. Ra3 Qxf1# { Black wins by checkmate. } 0-1

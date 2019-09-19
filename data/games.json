@@ -130,5 +130,17 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/nydk1q2F"
     }
+  },
+  {
+    "whiteId": "mikhail.egorov",
+    "blackId": "pavel.prokazov",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "19-09-2019",
+    "result": "bw",
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/mikhail.egorov-pavel.prokazov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/nxew5seu"
+    }
   }
 ]

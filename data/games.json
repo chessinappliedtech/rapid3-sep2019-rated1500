@@ -150,5 +150,13 @@
     "date": "20-09-2019",
     "result": "ww",
     "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexey.shklyar",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "20-09-2019",
+    "result": "ww",
+    "timeControlType": "RAPID"
   }
 ]

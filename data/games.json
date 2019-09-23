@@ -166,5 +166,13 @@
     "date": "20-09-2019",
     "result": "bw",
     "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "20-09-2019",
+    "result": "bw",
+    "timeControlType": "RAPID"
   }
 ]

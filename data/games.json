@@ -174,5 +174,13 @@
     "date": "20-09-2019",
     "result": "bw",
     "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "pavel.prokazov",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "25-09-2019",
+    "result": "bw",
+    "timeControlType": "RAPID"
   }
 ]

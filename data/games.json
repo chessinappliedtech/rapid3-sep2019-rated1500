@@ -182,5 +182,29 @@
     "date": "25-09-2019",
     "result": "bw",
     "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "gennady.alemsky",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "25-09-2019",
+    "result": "forfeit",
+    "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "gennady.alemsky",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "25-09-2019",
+    "result": "forfeit",
+    "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "pavel.prokazov",
+    "blackId": "gennady.alemsky",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "25-09-2019",
+    "result": "forfeit",
+    "timeControlType": "RAPID"
   }
 ]

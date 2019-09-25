@@ -206,5 +206,13 @@
     "date": "25-09-2019",
     "result": "forfeit",
     "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "eugeny.eremeev",
+    "tournamentId": "rapid3.sep2019.rated1500",
+    "date": "25-09-2019",
+    "result": "bw",
+    "timeControlType": "RAPID"
   }
 ]
